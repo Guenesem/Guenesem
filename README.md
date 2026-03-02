@@ -2,10 +2,6 @@
 
 **Mechanical Engineer | Software & Data Enthusiast | Bridging Engineering and AI**
 
-Mechanical engineering master's student with a growing specialization in Python, data science, and AI-driven systems.
-I enjoy solving engineering problems through code and building structured, scalable solutions.
-My projects focus on the intersection of physical systems, data analysis, and intelligent automation.
-This GitHub documents my journey from classical engineering towards software and AI.
 ---
 ### 🧰Languages and Tools
 
